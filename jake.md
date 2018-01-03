@@ -1,3 +1,3 @@
-Lead team of higly skilled developers
-Update Laravel News Podcast
-Complete Rubik's Cube in under 30 seconds
+-   Lead team of higly skilled developers
+-   Update Laravel News Podcast
+-   Complete Rubik's Cube in under 30 seconds
